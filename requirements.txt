@@ -1,0 +1,8 @@
+streamlit
+requests
+faiss-cpu
+sentence-transformers
+spacy
+keybert
+langchain
+huggingface-hub
