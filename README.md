@@ -20,8 +20,8 @@ Text (Book) -> Ontology Extraction -> Vector Database (FAISS) -> Answer Question
 
 ## Instructions
 
-git clone 
-cd 
+git clone https://github.com/LearnerAashi/Assignment.git
+cd Assignment
 pip install -r requirements.txt
 streamlit run app.py
 
